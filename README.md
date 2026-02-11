@@ -1,5 +1,5 @@
 
-# 💬 Flash Chat App (Flutter)
+# 💬 Flash Chat App 
 
 # 📱 Demo
 <p align="center">
@@ -8,37 +8,36 @@
     <img src="assets/demo/demo3.png" alt="Chat App preview" width="250"/>
 </p>
 
-Um **aplicativo de chat em tempo real**, desenvolvido em **Flutter**, com sistema de **autenticação de usuários** e troca de mensagens instantâneas.
+A **real-time chat application**, developed in **Flutter**, with a **user authentication** system and instant messaging.
 
-Este projeto foi criado com foco em aprender **autenticação, navegação entre telas, reutilização de componentes e comunicação em tempo real**, seguindo boas práticas de organização de código.
-
----
-
-## 📱 Funcionalidades
-
-- 🔐 Cadastro de usuários
-- 🔑 Login com e-mail e senha
-- 💬 Envio e recebimento de mensagens em tempo real
-- 👥 Chat entre múltiplos usuários
-- 🔄 Atualização automática das mensagens
-- 🎨 Interface simples e intuitiva
+This project was created focusing on learning **authentication, screen navigation, component reuse, and real-time communication**, following best practices for code organization.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📱 Features
+
+- 🔐 User registration
+- 🔑 Login with email and password
+- 💬 Sending and receiving messages in real time
+- 👥 Chat between multiple users
+- 🔄 Automatic message updates
+- 🎨 Simple and intuitive interface
+
+---
+
+## 🛠️ Technologies Used
 
 - **Flutter**
 - **Dart**
 - **Firebase Authentication**
 - **Firebase Cloud Firestore**
 - **StreamBuilder**
-- **Widgets reutilizáveis**
+- **Reusable Widgets**
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Project Structure
 
- 
  ```
 lib/
 ├── main.dart
